@@ -23,15 +23,13 @@ This dataset was build by augmenting datasets of rainfall, climate and fertilize
 
 ### [Experiment Results:]()
 * **Data Analysis**
-    * All columns contain outliers except for N.
+    
  * **Performance Evaluation**
-    * Splitting the dataset by 80 % for training set and 20 % validation set.
+    
  * **Training and Validation**
-    * GausianNB gets a higher accuracy score than other classification models.
-    * GaussianNB ( 99 % accuracy score )
+    
  * **Performance Results**
-    * Training Score: 99.5%
-    * Validation Score: 99.3%
+    
 
 
 # References
